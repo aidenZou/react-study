@@ -1,1 +1,3 @@
 # react-study
+
+React + Redux
